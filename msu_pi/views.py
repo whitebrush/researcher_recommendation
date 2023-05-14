@@ -10,7 +10,7 @@ from .forms import StudentProfileForm
 from .models import ResearcherResearchProfile
 from .utils import find_nearest_pis
 import openai
-openai.api_key = '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'
+openai.api_key = 'sk-XXXX'
 
 # Create your views here.
 def index(request):
